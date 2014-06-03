@@ -1,0 +1,9 @@
+{
+    "title": "UBC Golf Club Wiki",
+    "files": ["README.md"],
+    "links": [
+        ["Main Website", "http://tejbirwason.com/ubcgolf"],
+        ["Contact", "mailto:contactubcgolf@gmail.com"],
+        ["Get Membership", "https://ubcgolfclub.youcanbook.me"]
+    ]
+}
